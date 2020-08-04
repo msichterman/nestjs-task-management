@@ -1,4 +1,4 @@
-[![MSICH - Personal Site](https://img.shields.io/badge/MSICH-Personal%20Site-0892d0)](https://msich.netlify.app/)&emsp;
+[![MSICH - Personal Site](https://img.shields.io/badge/MSICH-Personal%20Site-0892d0)](https://msich.dev/)&emsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/mattsichterman?style=social)](https://twitter.com/mattsichterman)&emsp;
 [![Follow on GitHub](https://img.shields.io/github/followers/msichterman?label=Follow%20on%20Github&style=social)](https://github.com/msichterman)&emsp;
 # [NestJS Task Management](http://nestjs-task-management-frontend-h70.s3-website.us-east-2.amazonaws.com/)
